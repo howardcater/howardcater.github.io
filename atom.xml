@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>白杨的博客</title>
+  <title>Yang&amp;Blog</title>
   
-  <subtitle>Younth</subtitle>
+  
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://godweiyang.com/"/>
-  <updated>2022-01-15T08:22:13.094Z</updated>
-  <id>https://godweiyang.com/</id>
+  <link href="https://howardcater.github.io/"/>
+  <updated>2022-01-15T14:59:09.867Z</updated>
+  <id>https://howardcater.github.io/</id>
   
   <author>
     <name>baiyang</name>
@@ -17,11 +17,25 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>article title</title>
+    <link href="https://howardcater.github.io/2022/01/15/article-title/"/>
+    <id>https://howardcater.github.io/2022/01/15/article-title/</id>
+    <published>2022-01-15T14:10:32.000Z</published>
+    <updated>2022-01-15T14:59:09.867Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>求职：简历与面试</title>
-    <link href="https://godweiyang.com/2022/01/14/qiu-zhi-jian-li-yu-mian-shi/"/>
-    <id>https://godweiyang.com/2022/01/14/qiu-zhi-jian-li-yu-mian-shi/</id>
+    <link href="https://howardcater.github.io/2022/01/14/qiu-zhi-jian-li-yu-mian-shi/"/>
+    <id>https://howardcater.github.io/2022/01/14/qiu-zhi-jian-li-yu-mian-shi/</id>
     <published>2022-01-14T07:27:31.000Z</published>
-    <updated>2022-01-15T08:22:13.094Z</updated>
+    <updated>2022-01-15T15:41:53.584Z</updated>
     
     <summary type="html">
     
@@ -35,99 +49,19 @@
     
     </summary>
     
-      <category term="工作" scheme="https://godweiyang.com/categories/%E5%B7%A5%E4%BD%9C/"/>
+      <category term="工作" scheme="https://howardcater.github.io/categories/%E5%B7%A5%E4%BD%9C/"/>
     
     
-      <category term="博客" scheme="https://godweiyang.com/tags/%E5%8D%9A%E5%AE%A2/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>5W2H | 关于写博客的七点反思</title>
-    <link href="https://godweiyang.com/2020/01/14/5w2h-guan-yu-xie-bo-ke-de-qi-dian-fan-si/"/>
-    <id>https://godweiyang.com/2020/01/14/5w2h-guan-yu-xie-bo-ke-de-qi-dian-fan-si/</id>
-    <published>2020-01-14T07:27:31.000Z</published>
-    <updated>2022-01-15T08:24:56.897Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h2 id=&quot;When？什么时候开始写的？&quot;&gt;&lt;a href=&quot;#When？什么时候开始写的？&quot; class=&quot;headerlink&quot; title=&quot;When？什么时候开始写的？&quot;&gt;&lt;/a&gt;When？什么时候开始写的？&lt;/h2&gt;&lt;p&gt;第一次写博客是 2015 年了，在
-        
-      
-    
-    </summary>
-    
-      <category term="随笔" scheme="https://godweiyang.com/categories/%E9%9A%8F%E7%AC%94/"/>
-    
-    
-      <category term="博客" scheme="https://godweiyang.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+      <category term="简历" scheme="https://howardcater.github.io/tags/%E7%AE%80%E5%8E%86/"/>
     
   </entry>
   
   <entry>
-    <title>5W2H | 关于写博客的七点反思</title>
-    <link href="https://godweiyang.com/2020/01/14/markdown-ru-men-jiao-cheng-ji-shu-xie-feng-ge-zhi-nan/"/>
-    <id>https://godweiyang.com/2020/01/14/markdown-ru-men-jiao-cheng-ji-shu-xie-feng-ge-zhi-nan/</id>
-    <published>2020-01-14T07:27:31.000Z</published>
-    <updated>2022-01-15T08:16:07.338Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;img src=&quot;https://tingtalk.me/markdown/markdown.png&quot; alt=&quot;markdown&quot;&gt;现代汉语就像用脏了的人民币，要用 Markdown 洗一洗。Markdown
-        
-      
-    
-    </summary>
-    
-      <category term="电脑" scheme="https://godweiyang.com/categories/%E7%94%B5%E8%84%91/"/>
-    
-    
-      <category term="博客" scheme="https://godweiyang.com/tags/%E5%8D%9A%E5%AE%A2/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>如何做出合格的 PPT.md</title>
-    <link href="https://godweiyang.com/2020/01/14/ru-he-zuo-chu-he-ge-de-ppt/"/>
-    <id>https://godweiyang.com/2020/01/14/ru-he-zuo-chu-he-ge-de-ppt/</id>
-    <published>2020-01-14T07:27:31.000Z</published>
-    <updated>2022-01-15T08:24:24.708Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;img src=&quot;https://tingtalk.me/ppt/ppt.png&quot; alt=&quot;ppt&quot; title=&quot;Microsoft Office PowerPoint&quot;&gt;&lt;/p&gt;
-&lt;p&gt;先把 Point 理清楚，再考虑有没有 Power。&lt;/p&gt;
-&lt;h2
-        
-      
-    
-    </summary>
-    
-      <category term="工作" scheme="https://godweiyang.com/categories/%E5%B7%A5%E4%BD%9C/"/>
-    
-    
-      <category term="博客" scheme="https://godweiyang.com/tags/%E5%8D%9A%E5%AE%A2/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>5W2H | Windows 10 电脑：使用技巧、佳软推荐以及系统重装教程</title>
-    <link href="https://godweiyang.com/2020/01/14/windows-10-dian-nao-shi-yong-ji-qiao-jia-ruan-tui-jian-yi-ji-xi-tong-chong-zhuang-jiao-cheng/"/>
-    <id>https://godweiyang.com/2020/01/14/windows-10-dian-nao-shi-yong-ji-qiao-jia-ruan-tui-jian-yi-ji-xi-tong-chong-zhuang-jiao-cheng/</id>
-    <published>2020-01-14T07:27:31.000Z</published>
-    <updated>2022-01-15T08:15:50.427Z</updated>
+    <title>Windows 10 电脑：使用技巧、佳软推荐以及系统重装教程</title>
+    <link href="https://howardcater.github.io/2021/10/08/windows-10-dian-nao-shi-yong-ji-qiao-jia-ruan-tui-jian-yi-ji-xi-tong-chong-zhuang-jiao-cheng/"/>
+    <id>https://howardcater.github.io/2021/10/08/windows-10-dian-nao-shi-yong-ji-qiao-jia-ruan-tui-jian-yi-ji-xi-tong-chong-zhuang-jiao-cheng/</id>
+    <published>2021-10-08T07:27:31.000Z</published>
+    <updated>2022-01-15T15:42:34.989Z</updated>
     
     <summary type="html">
     
@@ -142,45 +76,19 @@
     
     </summary>
     
-      <category term="电脑" scheme="https://godweiyang.com/categories/%E7%94%B5%E8%84%91/"/>
+      <category term="学习" scheme="https://howardcater.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
     
     
-      <category term="博客" scheme="https://godweiyang.com/tags/%E5%8D%9A%E5%AE%A2/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>想要更高效地找到信息，你需要掌握这些搜索技巧.md</title>
-    <link href="https://godweiyang.com/2020/01/14/xiang-yao-geng-gao-xiao-di-zhao-dao-xin-xi-ni-xu-yao-zhang-wo-zhe-xie-sou-suo-ji-qiao/"/>
-    <id>https://godweiyang.com/2020/01/14/xiang-yao-geng-gao-xiao-di-zhao-dao-xin-xi-ni-xu-yao-zhang-wo-zhe-xie-sou-suo-ji-qiao/</id>
-    <published>2020-01-14T07:27:31.000Z</published>
-    <updated>2022-01-15T08:17:28.821Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;img src=&quot;https://tingtalk.me/search-tips/search.png&quot;
-        
-      
-    
-    </summary>
-    
-      <category term="电脑" scheme="https://godweiyang.com/categories/%E7%94%B5%E8%84%91/"/>
-    
-    
-      <category term="博客" scheme="https://godweiyang.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+      <category term="软件" scheme="https://howardcater.github.io/tags/%E8%BD%AF%E4%BB%B6/"/>
     
   </entry>
   
   <entry>
     <title>摄影技巧</title>
-    <link href="https://godweiyang.com/2020/01/14/she-ying-ji-qiao/"/>
-    <id>https://godweiyang.com/2020/01/14/she-ying-ji-qiao/</id>
-    <published>2020-01-14T07:27:31.000Z</published>
-    <updated>2022-01-15T08:18:22.245Z</updated>
+    <link href="https://howardcater.github.io/2021/09/10/she-ying-ji-qiao/"/>
+    <id>https://howardcater.github.io/2021/09/10/she-ying-ji-qiao/</id>
+    <published>2021-09-10T07:27:31.000Z</published>
+    <updated>2022-01-15T16:28:58.400Z</updated>
     
     <summary type="html">
     
@@ -196,10 +104,143 @@
     
     </summary>
     
-      <category term="生活" scheme="https://godweiyang.com/categories/%E7%94%9F%E6%B4%BB/"/>
+      <category term="娱乐" scheme="https://howardcater.github.io/categories/%E5%A8%B1%E4%B9%90/"/>
     
     
-      <category term="博客" scheme="https://godweiyang.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+      <category term="摄影" scheme="https://howardcater.github.io/tags/%E6%91%84%E5%BD%B1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>如何做出合格的 PPT.md</title>
+    <link href="https://howardcater.github.io/2021/03/15/ru-he-zuo-chu-he-ge-de-ppt/"/>
+    <id>https://howardcater.github.io/2021/03/15/ru-he-zuo-chu-he-ge-de-ppt/</id>
+    <published>2021-03-15T07:27:31.000Z</published>
+    <updated>2022-01-15T15:42:09.937Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;img src=&quot;https://tingtalk.me/ppt/ppt.png&quot; alt=&quot;ppt&quot; title=&quot;Microsoft Office PowerPoint&quot;&gt;&lt;/p&gt;
+&lt;p&gt;先把 Point 理清楚，再考虑有没有 Power。&lt;/p&gt;
+&lt;h2
+        
+      
+    
+    </summary>
+    
+      <category term="工作" scheme="https://howardcater.github.io/categories/%E5%B7%A5%E4%BD%9C/"/>
+    
+    
+      <category term="PPT" scheme="https://howardcater.github.io/tags/PPT/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>人身保险入门指南</title>
+    <link href="https://howardcater.github.io/2020/05/20/ren-shen-bao-xian-ru-men-zhi-nan/"/>
+    <id>https://howardcater.github.io/2020/05/20/ren-shen-bao-xian-ru-men-zhi-nan/</id>
+    <published>2020-05-20T07:27:31.000Z</published>
+    <updated>2022-01-15T15:41:43.829Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;img src=&quot;https://tingtalk.me/personal-insurance/shelter-for-families.png&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="学习" scheme="https://howardcater.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+      <category term="保险" scheme="https://howardcater.github.io/tags/%E4%BF%9D%E9%99%A9/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Markdown 入门教程及书写风格指南</title>
+    <link href="https://howardcater.github.io/2020/01/14/markdown-ru-men-jiao-cheng-ji-shu-xie-feng-ge-zhi-nan/"/>
+    <id>https://howardcater.github.io/2020/01/14/markdown-ru-men-jiao-cheng-ji-shu-xie-feng-ge-zhi-nan/</id>
+    <published>2020-01-14T07:27:31.000Z</published>
+    <updated>2022-01-15T15:40:19.405Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;img src=&quot;https://tingtalk.me/markdown/markdown.png&quot; alt=&quot;markdown&quot;&gt;现代汉语就像用脏了的人民币，要用 Markdown 洗一洗。Markdown
+        
+      
+    
+    </summary>
+    
+      <category term="生活" scheme="https://howardcater.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+      <category term="写作" scheme="https://howardcater.github.io/tags/%E5%86%99%E4%BD%9C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>微信公众号排版心得</title>
+    <link href="https://howardcater.github.io/2020/01/14/wei-xin-gong-zhong-hao-pai-ban-xin-de/"/>
+    <id>https://howardcater.github.io/2020/01/14/wei-xin-gong-zhong-hao-pai-ban-xin-de/</id>
+    <published>2020-01-14T07:27:31.000Z</published>
+    <updated>2022-01-15T15:41:11.662Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;清爽的排版，能让阅读成为一种享受。&lt;/p&gt;
+&lt;h2 id=&quot;为何排版&quot;&gt;&lt;a href=&quot;#为何排版&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="生活" scheme="https://howardcater.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+      <category term="写作" scheme="https://howardcater.github.io/tags/%E5%86%99%E4%BD%9C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>想要更高效地找到信息，你需要掌握这些搜索技巧.md</title>
+    <link href="https://howardcater.github.io/2020/01/14/xiang-yao-geng-gao-xiao-di-zhao-dao-xin-xi-ni-xu-yao-zhang-wo-zhe-xie-sou-suo-ji-qiao/"/>
+    <id>https://howardcater.github.io/2020/01/14/xiang-yao-geng-gao-xiao-di-zhao-dao-xin-xi-ni-xu-yao-zhang-wo-zhe-xie-sou-suo-ji-qiao/</id>
+    <published>2020-01-14T07:27:31.000Z</published>
+    <updated>2022-01-15T15:40:58.951Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;img src=&quot;https://tingtalk.me/search-tips/search.png&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="工作" scheme="https://howardcater.github.io/categories/%E5%B7%A5%E4%BD%9C/"/>
+    
+    
+      <category term="搜索" scheme="https://howardcater.github.io/tags/%E6%90%9C%E7%B4%A2/"/>
     
   </entry>
   
