@@ -167,31 +167,6 @@
     
     
     <entry>
-      <title>微信公众号排版心得</title>
-      <link href="/2020/01/14/wei-xin-gong-zhong-hao-pai-ban-xin-de/"/>
-      <url>/2020/01/14/wei-xin-gong-zhong-hao-pai-ban-xin-de/</url>
-      
-        <content type="html"><![CDATA[<p>清爽的排版，能让阅读成为一种享受。</p><h2 id="为何排版"><a href="#为何排版" class="headerlink" title="为何排版"></a>为何排版</h2><p>古人对于写文章有两个基本要求：</p><ul><li><strong>有物</strong>：就是要有内容。</li><li><strong>有序</strong>：就是要有条理。</li></ul><p>像我这种无名作者，写的内容没有资历和名气的加持，再不好好雕琢一下，使之干净清爽、条理清晰、便于阅读，不然，读者的阅读兴趣很快就消散了。而且漂亮舒适的排版，不仅能让读者眼睛爽，还能加深对文章的理解。</p><h2 id="如何排版"><a href="#如何排版" class="headerlink" title="如何排版"></a>如何排版</h2><p>之所以「庭说」的排版被多人问津，是因为我站在巨人的肩膀上，这位巨人就是「<strong>可能吧</strong>」。当见识了这位巨人的排版之后，我多方模仿实践，终于有一天被我倒腾出来了，之后便开始了我的公众号写作之路。</p><p>阿禅在 <a href="https://kenengba.com/post/3507.html" target="_blank" rel="noopener">可能吧的文章是如何排版的？</a>（VPN required）提到：</p><ol><li>排版不仅是锦上添花。</li><li>什么是写作规律？</li><li>为什么我不用任何微信排版器？</li><li>可能吧的文章是如何排版的？</li><li>别依赖模板式教程。</li></ol><p>「可能吧」采用的是代码级排版，需要花几天时间学习 HTML、CSS、Python 等的基础语法。而我懒，就取巧借助了第三方排版编辑器：秀米。浏览器是 <a href="https://tingtalk.me/chrome/" target="_blank" rel="noopener">Chrome</a>，兼容性好，复制、粘贴和同步都不容易出错。</p><h3 id="留白的艺术"><a href="#留白的艺术" class="headerlink" title="留白的艺术"></a>留白的艺术</h3><p>请在页面周围大方地留点空间，减少文字太满产生的压迫感，既可以让读者的视线在字里行间游刃有余，又可以让眼球有地方休息。</p><ul><li>如果一行文字过长，视线移动距离太长，很难让人注意到段落起点和终点，阅读比较困难</li><li>如果一行文字过短，眼睛要不停来回扫视，破坏阅读节奏。</li></ul><p>因此我们可以让内容区的每一行承载合适的字数，来提高易读性和舒适性。秀米相关设置如下：</p><ul><li>基础字号（正文字体）：14。显得比较秀气。</li><li>行间距：1.7 倍。行与行之间，就像恋人一样需要适宜的空间，不然会喘不过气来。</li><li>字间距：2 像素。增大字距，可以让文本更加整洁、易读。</li><li>页边距：30 像素。在「i 排版」中，这个功能叫缩进。</li></ul><p>对了，<strong>千万不要首行缩进</strong>，那是纸媒留下来的排版习惯了。参差不齐的字块，宛如缺牙狗啃出来的一样。</p><h3 id="调教的学问"><a href="#调教的学问" class="headerlink" title="调教的学问"></a>调教的学问</h3><p>常言道：「少则得，多则惑，色不过三」，切记全文不要超过三种颜色。如果你难以驾驭配色这门学问，<strong>黑白灰</strong>的性冷淡风格是比较保险的百搭。但是，纯黑的字体有些刺眼，可以换成温和的灰色，也不容易引起阅读疲劳。</p><ul><li>标题：先来一段 50 度灰 <code>RGB(50,50,50)</code>。</li><li>正文：再配上一瓶 82 年的拉灰 <code>RGB (82,82,82)</code>。</li><li>点缀：不免单调，可以从头像或 Logo 中提取一个主题色，作为装饰。</li></ul><p>配色确定了，再调教一下字号：</p><ul><li>标题字体：18 号。为了醒目，加粗更佳。</li><li>正文字体：14 号。文艺青年都喜欢这么干。</li></ul><p>至此，排版已经搞定 7788 了。</p><h3 id="空格的妙用"><a href="#空格的妙用" class="headerlink" title="空格的妙用"></a>空格的妙用</h3><p>有一个设计圈的笑话：打字的时候不喜欢在中文和英文之间加空格的人，感情路都走得很辛苦。 有七成的比例会在 34 岁的时候跟自己不爱的人结婚，而其余三成的人最后只能把遗产留给自己的猫。毕竟爱情跟书写都需要适时地留白。</p><p><strong>中文和英文之间需要增加空格</strong><br>✔：by 一朵遗世独立的小奇葩<br>❌：by一朵遗世独立的小奇葩</p><p><strong>中文和数字之间需要增加空格</strong><br>✔：懂一点污 78 嘿的小知识<br>❌：懂一点污78嘿的小知识</p><p>更多关于空格的艺术，请参阅 <a href="https://tingtalk.me/style-guide/" target="_blank" rel="noopener">文案风格及排版指南</a>。</p><h2 id="回归写作"><a href="#回归写作" class="headerlink" title="回归写作"></a>回归写作</h2><p>「庭说」的公众号就是花了太多时间在排版上了。为了实现<strong>层级缩进</strong>的效果，不惜在秀米排版器中里三层，外三层地套用了六个布局模板，这种排版终究还是太<strong>费神费时</strong>了。</p><p>更高效的排版方法，非 Markdown 所属。这是一种轻量级的「标记语言」，几分钟就可以学会，省出来的时间，就可以专注于打磨文字。教程请参阅 <a href="https://tingtalk.me/markdown/" target="_blank" rel="noopener">Markdown 入门教程及书写风格指南</a>。</p><p>用 Markdown 写好之后，把文章复制到以下其中一个转换器：</p><ul><li><a href="https://mdnice.com/" target="_blank" rel="noopener">Markdown Nice</a>：让微信排版变 Nice，支持自定义主题 CSS 和在文末列出微信外链。</li><li><a href="https://doocs.github.io/md/" target="_blank" rel="noopener">微信 Markdown 编辑器</a>：高度简洁。</li><li><a href="https://knb.im/mp/" target="_blank" rel="noopener">可能吧公众号 Style 一键转换器</a>：老司机禅叔出品。</li></ul><p>一篇结构清晰，页面美观的佳作就诞生了。</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 生活 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 写作 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>想要更高效地找到信息，你需要掌握这些搜索技巧.md</title>
       <link href="/2020/01/14/xiang-yao-geng-gao-xiao-di-zhao-dao-xin-xi-ni-xu-yao-zhang-wo-zhe-xie-sou-suo-ji-qiao/"/>
       <url>/2020/01/14/xiang-yao-geng-gao-xiao-di-zhao-dao-xin-xi-ni-xu-yao-zhang-wo-zhe-xie-sou-suo-ji-qiao/</url>
@@ -209,6 +184,31 @@
         <tags>
             
             <tag> 搜索 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>微信公众号排版心得</title>
+      <link href="/2020/01/14/wei-xin-gong-zhong-hao-pai-ban-xin-de/"/>
+      <url>/2020/01/14/wei-xin-gong-zhong-hao-pai-ban-xin-de/</url>
+      
+        <content type="html"><![CDATA[<p>清爽的排版，能让阅读成为一种享受。</p><h2 id="为何排版"><a href="#为何排版" class="headerlink" title="为何排版"></a>为何排版</h2><p>古人对于写文章有两个基本要求：</p><ul><li><strong>有物</strong>：就是要有内容。</li><li><strong>有序</strong>：就是要有条理。</li></ul><p>像我这种无名作者，写的内容没有资历和名气的加持，再不好好雕琢一下，使之干净清爽、条理清晰、便于阅读，不然，读者的阅读兴趣很快就消散了。而且漂亮舒适的排版，不仅能让读者眼睛爽，还能加深对文章的理解。</p><h2 id="如何排版"><a href="#如何排版" class="headerlink" title="如何排版"></a>如何排版</h2><p>之所以「庭说」的排版被多人问津，是因为我站在巨人的肩膀上，这位巨人就是「<strong>可能吧</strong>」。当见识了这位巨人的排版之后，我多方模仿实践，终于有一天被我倒腾出来了，之后便开始了我的公众号写作之路。</p><p>阿禅在 <a href="https://kenengba.com/post/3507.html" target="_blank" rel="noopener">可能吧的文章是如何排版的？</a>（VPN required）提到：</p><ol><li>排版不仅是锦上添花。</li><li>什么是写作规律？</li><li>为什么我不用任何微信排版器？</li><li>可能吧的文章是如何排版的？</li><li>别依赖模板式教程。</li></ol><p>「可能吧」采用的是代码级排版，需要花几天时间学习 HTML、CSS、Python 等的基础语法。而我懒，就取巧借助了第三方排版编辑器：秀米。浏览器是 <a href="https://tingtalk.me/chrome/" target="_blank" rel="noopener">Chrome</a>，兼容性好，复制、粘贴和同步都不容易出错。</p><h3 id="留白的艺术"><a href="#留白的艺术" class="headerlink" title="留白的艺术"></a>留白的艺术</h3><p>请在页面周围大方地留点空间，减少文字太满产生的压迫感，既可以让读者的视线在字里行间游刃有余，又可以让眼球有地方休息。</p><ul><li>如果一行文字过长，视线移动距离太长，很难让人注意到段落起点和终点，阅读比较困难</li><li>如果一行文字过短，眼睛要不停来回扫视，破坏阅读节奏。</li></ul><p>因此我们可以让内容区的每一行承载合适的字数，来提高易读性和舒适性。秀米相关设置如下：</p><ul><li>基础字号（正文字体）：14。显得比较秀气。</li><li>行间距：1.7 倍。行与行之间，就像恋人一样需要适宜的空间，不然会喘不过气来。</li><li>字间距：2 像素。增大字距，可以让文本更加整洁、易读。</li><li>页边距：30 像素。在「i 排版」中，这个功能叫缩进。</li></ul><p>对了，<strong>千万不要首行缩进</strong>，那是纸媒留下来的排版习惯了。参差不齐的字块，宛如缺牙狗啃出来的一样。</p><h3 id="调教的学问"><a href="#调教的学问" class="headerlink" title="调教的学问"></a>调教的学问</h3><p>常言道：「少则得，多则惑，色不过三」，切记全文不要超过三种颜色。如果你难以驾驭配色这门学问，<strong>黑白灰</strong>的性冷淡风格是比较保险的百搭。但是，纯黑的字体有些刺眼，可以换成温和的灰色，也不容易引起阅读疲劳。</p><ul><li>标题：先来一段 50 度灰 <code>RGB(50,50,50)</code>。</li><li>正文：再配上一瓶 82 年的拉灰 <code>RGB (82,82,82)</code>。</li><li>点缀：不免单调，可以从头像或 Logo 中提取一个主题色，作为装饰。</li></ul><p>配色确定了，再调教一下字号：</p><ul><li>标题字体：18 号。为了醒目，加粗更佳。</li><li>正文字体：14 号。文艺青年都喜欢这么干。</li></ul><p>至此，排版已经搞定 7788 了。</p><h3 id="空格的妙用"><a href="#空格的妙用" class="headerlink" title="空格的妙用"></a>空格的妙用</h3><p>有一个设计圈的笑话：打字的时候不喜欢在中文和英文之间加空格的人，感情路都走得很辛苦。 有七成的比例会在 34 岁的时候跟自己不爱的人结婚，而其余三成的人最后只能把遗产留给自己的猫。毕竟爱情跟书写都需要适时地留白。</p><p><strong>中文和英文之间需要增加空格</strong><br>✔：by 一朵遗世独立的小奇葩<br>❌：by一朵遗世独立的小奇葩</p><p><strong>中文和数字之间需要增加空格</strong><br>✔：懂一点污 78 嘿的小知识<br>❌：懂一点污78嘿的小知识</p><p>更多关于空格的艺术，请参阅 <a href="https://tingtalk.me/style-guide/" target="_blank" rel="noopener">文案风格及排版指南</a>。</p><h2 id="回归写作"><a href="#回归写作" class="headerlink" title="回归写作"></a>回归写作</h2><p>「庭说」的公众号就是花了太多时间在排版上了。为了实现<strong>层级缩进</strong>的效果，不惜在秀米排版器中里三层，外三层地套用了六个布局模板，这种排版终究还是太<strong>费神费时</strong>了。</p><p>更高效的排版方法，非 Markdown 所属。这是一种轻量级的「标记语言」，几分钟就可以学会，省出来的时间，就可以专注于打磨文字。教程请参阅 <a href="https://tingtalk.me/markdown/" target="_blank" rel="noopener">Markdown 入门教程及书写风格指南</a>。</p><p>用 Markdown 写好之后，把文章复制到以下其中一个转换器：</p><ul><li><a href="https://mdnice.com/" target="_blank" rel="noopener">Markdown Nice</a>：让微信排版变 Nice，支持自定义主题 CSS 和在文末列出微信外链。</li><li><a href="https://doocs.github.io/md/" target="_blank" rel="noopener">微信 Markdown 编辑器</a>：高度简洁。</li><li><a href="https://knb.im/mp/" target="_blank" rel="noopener">可能吧公众号 Style 一键转换器</a>：老司机禅叔出品。</li></ul><p>一篇结构清晰，页面美观的佳作就诞生了。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 生活 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 写作 </tag>
             
         </tags>
       
