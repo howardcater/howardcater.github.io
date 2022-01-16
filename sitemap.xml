@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://howardcater.github.io/about/index.html</loc>
+    
+    <lastmod>2022-01-16T04:43:48.916Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://howardcater.github.io/friends/index.html</loc>
+    
+    <lastmod>2022-01-16T04:37:44.602Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://howardcater.github.io/2021/09/10/she-ying-ji-qiao/</loc>
     
     <lastmod>2022-01-15T16:28:58.400Z</lastmod>
@@ -58,13 +72,6 @@
   </url>
   
   <url>
-    <loc>https://howardcater.github.io/about/index.html</loc>
-    
-    <lastmod>2022-01-15T15:19:48.431Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://howardcater.github.io/tags/index.html</loc>
     
     <lastmod>2022-01-15T15:18:49.627Z</lastmod>
@@ -82,13 +89,6 @@
     <loc>https://howardcater.github.io/categories/index.html</loc>
     
     <lastmod>2022-01-15T15:17:51.796Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://howardcater.github.io/friends/index.html</loc>
-    
-    <lastmod>2022-01-15T15:12:25.190Z</lastmod>
     
   </url>
   
