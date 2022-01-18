@@ -1171,29 +1171,29 @@
     </div>
 
     
+    <link rel="stylesheet" href="/libs/gitalk/gitalk.css">
+<link rel="stylesheet" href="/css/my-gitalk.css">
 
-    
-    <link rel="stylesheet" href="/libs/gitment/gitment-default.css">
-<link rel="stylesheet" href="/css/gitment.css">
-
-<div class="gitment-card card" data-aos="fade-up">
-    <div id="gitment-content" class="card-content"></div>
+<div class="card gitalk-card" data-aos="fade-up">
+    <div id="gitalk-container" class="card-content"></div>
 </div>
 
-<script src="/libs/gitment/gitment.js"></script>
+<script src="/libs/gitalk/gitalk.min.js"></script>
 <script>
-var gitment = new Gitment({
-    id: 'Wed May 20 2020 15:27:31 GMT+0800',
-    owner: 'howardcater',
-    repo: 'howardcater.github.io',
-    oauth: {
-        client_id: 'c00e911f572f2753c98f',
-        client_secret: 'fc781bd1e1265fd5bf359b3a232721086def503a'
-    }
-});
+    let gitalk = new Gitalk({
+        clientID: 'c00e911f572f2753c98f',
+        clientSecret: 'fc781bd1e1265fd5bf359b3a232721086def503a',
+        repo: 'howardcater.github.io',
+        owner: 'howardcater',
+        admin: "howardcater",
+        id: '2020/05/20/ren-shen-bao-xian-ru-men-zhi-nan/',
+        distractionFreeMode: false  // Facebook-like distraction free mode
+    });
 
-gitment.render('gitment-content');
+    gitalk.render('gitalk-container');
 </script>
+    
+
     
 
     
