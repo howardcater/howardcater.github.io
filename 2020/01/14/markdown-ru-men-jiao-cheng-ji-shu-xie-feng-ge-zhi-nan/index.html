@@ -1102,29 +1102,29 @@
     </div>
 
     
-    <link rel="stylesheet" href="/libs/gitalk/gitalk.css">
-<link rel="stylesheet" href="/css/my-gitalk.css">
 
-<div class="card gitalk-card" data-aos="fade-up">
-    <div id="gitalk-container" class="card-content"></div>
+    
+    <link rel="stylesheet" href="/libs/gitment/gitment-default.css">
+<link rel="stylesheet" href="/css/gitment.css">
+
+<div class="gitment-card card" data-aos="fade-up">
+    <div id="gitment-content" class="card-content"></div>
 </div>
 
-<script src="/libs/gitalk/gitalk.min.js"></script>
+<script src="/libs/gitment/gitment.js"></script>
 <script>
-    let gitalk = new Gitalk({
-        clientID: 'c00e911f572f2753c98f',
-        clientSecret: 'fc781bd1e1265fd5bf359b3a232721086def503a',
-        repo: 'howardcater.github.io',
-        owner: 'howardcater',
-        admin: "howardcater",
-        id: '2020/01/14/markdown-ru-men-jiao-cheng-ji-shu-xie-feng-ge-zhi-nan/',
-        distractionFreeMode: false  // Facebook-like distraction free mode
-    });
+var gitment = new Gitment({
+    id: 'Tue Jan 14 2020 15:27:31 GMT+0800',
+    owner: 'howardcater',
+    repo: 'howardcater.github.io',
+    oauth: {
+        client_id: 'c00e911f572f2753c98f',
+        client_secret: 'fc781bd1e1265fd5bf359b3a232721086def503a'
+    }
+});
 
-    gitalk.render('gitalk-container');
+gitment.render('gitment-content');
 </script>
-    
-
     
 
     
