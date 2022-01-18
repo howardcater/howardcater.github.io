@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://howardcater.github.io/"/>
-  <updated>2022-01-15T14:59:09.867Z</updated>
+  <updated>2022-01-18T03:44:20.788Z</updated>
   <id>https://howardcater.github.io/</id>
   
   <author>
@@ -17,25 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>article title</title>
-    <link href="https://howardcater.github.io/2022/01/15/article-title/"/>
-    <id>https://howardcater.github.io/2022/01/15/article-title/</id>
-    <published>2022-01-15T14:10:32.000Z</published>
-    <updated>2022-01-15T14:59:09.867Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>求职：简历与面试</title>
+    <title>怎样写好一份简历</title>
     <link href="https://howardcater.github.io/2022/01/14/qiu-zhi-jian-li-yu-mian-shi/"/>
     <id>https://howardcater.github.io/2022/01/14/qiu-zhi-jian-li-yu-mian-shi/</id>
     <published>2022-01-14T07:27:31.000Z</published>
-    <updated>2022-01-17T11:18:55.453Z</updated>
+    <updated>2022-01-18T03:44:20.788Z</updated>
     
     <summary type="html">
     
@@ -88,7 +74,7 @@
     <link href="https://howardcater.github.io/2021/09/10/she-ying-ji-qiao/"/>
     <id>https://howardcater.github.io/2021/09/10/she-ying-ji-qiao/</id>
     <published>2021-09-10T07:27:31.000Z</published>
-    <updated>2022-01-17T11:17:49.000Z</updated>
+    <updated>2022-01-17T16:19:38.918Z</updated>
     
     <summary type="html">
     
@@ -112,11 +98,11 @@
   </entry>
   
   <entry>
-    <title>如何做出合格的 PPT</title>
+    <title>如何做出好看的 PPT</title>
     <link href="https://howardcater.github.io/2021/03/15/ru-he-zuo-chu-he-ge-de-ppt/"/>
     <id>https://howardcater.github.io/2021/03/15/ru-he-zuo-chu-he-ge-de-ppt/</id>
     <published>2021-03-15T07:27:31.000Z</published>
-    <updated>2022-01-17T11:18:49.380Z</updated>
+    <updated>2022-01-18T03:43:53.264Z</updated>
     
     <summary type="html">
     
@@ -140,11 +126,11 @@
   </entry>
   
   <entry>
-    <title>人身保险入门指南</title>
+    <title>一文讲透如何购买保险</title>
     <link href="https://howardcater.github.io/2020/05/20/ren-shen-bao-xian-ru-men-zhi-nan/"/>
     <id>https://howardcater.github.io/2020/05/20/ren-shen-bao-xian-ru-men-zhi-nan/</id>
     <published>2020-05-20T07:27:31.000Z</published>
-    <updated>2022-01-15T15:41:43.829Z</updated>
+    <updated>2022-01-18T03:42:11.185Z</updated>
     
     <summary type="html">
     
@@ -166,9 +152,35 @@
   </entry>
   
   <entry>
+    <title>Markdown 入门教程及书写风格指南</title>
+    <link href="https://howardcater.github.io/2020/01/14/markdown-ru-men-jiao-cheng-ji-shu-xie-feng-ge-zhi-nan/"/>
+    <id>https://howardcater.github.io/2020/01/14/markdown-ru-men-jiao-cheng-ji-shu-xie-feng-ge-zhi-nan/</id>
+    <published>2020-01-14T07:27:31.000Z</published>
+    <updated>2022-01-15T15:40:19.405Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;img src=&quot;https://tingtalk.me/markdown/markdown.png&quot; alt=&quot;markdown&quot;&gt;现代汉语就像用脏了的人民币，要用 Markdown 洗一洗。Markdown
+        
+      
+    
+    </summary>
+    
+      <category term="生活" scheme="https://howardcater.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+      <category term="写作" scheme="https://howardcater.github.io/tags/%E5%86%99%E4%BD%9C/"/>
+    
+  </entry>
+  
+  <entry>
     <title>微信公众号排版心得</title>
-    <link href="https://howardcater.github.io/2020/01/14/wei-xin-gong-zhong-hao-pai-ban-xin-de/"/>
-    <id>https://howardcater.github.io/2020/01/14/wei-xin-gong-zhong-hao-pai-ban-xin-de/</id>
+    <link href="https://howardcater.github.io/2020/01/14/wei-xin-gong-zhong-hao-pai-ban/"/>
+    <id>https://howardcater.github.io/2020/01/14/wei-xin-gong-zhong-hao-pai-ban/</id>
     <published>2020-01-14T07:27:31.000Z</published>
     <updated>2022-01-15T15:41:11.662Z</updated>
     
@@ -215,32 +227,6 @@
     
     
       <category term="搜索" scheme="https://howardcater.github.io/tags/%E6%90%9C%E7%B4%A2/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Markdown 入门教程及书写风格指南</title>
-    <link href="https://howardcater.github.io/2020/01/14/markdown-ru-men-jiao-cheng-ji-shu-xie-feng-ge-zhi-nan/"/>
-    <id>https://howardcater.github.io/2020/01/14/markdown-ru-men-jiao-cheng-ji-shu-xie-feng-ge-zhi-nan/</id>
-    <published>2020-01-14T07:27:31.000Z</published>
-    <updated>2022-01-15T15:40:19.405Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;img src=&quot;https://tingtalk.me/markdown/markdown.png&quot; alt=&quot;markdown&quot;&gt;现代汉语就像用脏了的人民币，要用 Markdown 洗一洗。Markdown
-        
-      
-    
-    </summary>
-    
-      <category term="生活" scheme="https://howardcater.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
-    
-    
-      <category term="写作" scheme="https://howardcater.github.io/tags/%E5%86%99%E4%BD%9C/"/>
     
   </entry>
   
